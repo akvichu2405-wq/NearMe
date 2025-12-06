@@ -181,7 +181,11 @@ devi.html
 
 ## OUTPUT
 
+<<<<<<< HEAD
 ![alt text](<map (2).png>)
+=======
+<img width="1919" height="929" alt="map (2)" src="https://github.com/user-attachments/assets/1364ceed-0e6b-4c90-aea7-80fa9adf4125" />
+>>>>>>> d4eef902bcbd7479b057669937f362948397aa74
 ![alt text](courtallam.png)
 ![alt text](Eco.png)
 ![alt text](<five resort.png>)
