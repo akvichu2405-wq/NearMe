@@ -181,7 +181,7 @@ devi.html
 
 ## OUTPUT
 
-![alt text]<img width="1919" height="929" alt="map (2)" src="https://github.com/user-attachments/assets/1364ceed-0e6b-4c90-aea7-80fa9adf4125" />
+<img width="1919" height="929" alt="map (2)" src="https://github.com/user-attachments/assets/1364ceed-0e6b-4c90-aea7-80fa9adf4125" />
 ![alt text](courtallam.png)
 ![alt text](Eco.png)
 ![alt text](<five resort.png>)
