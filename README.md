@@ -181,7 +181,7 @@ devi.html
 
 ## OUTPUT
 
-![alt text](map.png)
+![alt text](<map (2).png>)
 ![alt text](courtallam.png)
 ![alt text](Eco.png)
 ![alt text](<five resort.png>)
